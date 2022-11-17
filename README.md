@@ -22,6 +22,7 @@ python manage.py runserver
 You can access the API at: http://127.0.0.1:8000/api/graphql
 
 
+
 ## API Guide: 
 1. Convenience query to get all vehicles
 ``` gql
